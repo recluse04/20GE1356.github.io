@@ -1,8 +1,3 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
-
 # SDSC1001 - Introduction to Data Science 
 
 ##   Course  Information
